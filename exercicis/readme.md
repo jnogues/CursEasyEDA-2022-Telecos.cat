@@ -1,1 +1,1 @@
-hola
+Exercici 1
