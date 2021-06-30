@@ -6,8 +6,8 @@ Repositori pel curs d'EasyEda de formació del professorat d'FP. Estiu 2021.
 3. Fabricació de PCBs i prototips electrònics (JMN Electronics)
     * Cómo hacer un PCB. [Parte 1](http://jmnelectronics.com/archives/1181)
     * Cómo hacer un PCB. [Parte 2](http://jmnelectronics.com/archives/1317)
-    * Cómo hacer un PCB. Parte 3.
-    Cómo soldar SMD: soldador. Parte 1.
-    Cómo soldar SMD: aire caliente. Parte 2.
-    Soldadura SMD con horno & Tindie.
-    Cómo montar PCBs en China
+    * Cómo hacer un PCB. [Parte 3](http://jmnelectronics.com/archives/1460)
+    * Cómo soldar SMD: soldador. [Parte 1](http://jmnelectronics.com/archives/1595)
+    * Cómo soldar SMD: aire caliente. [Parte 2](http://jmnelectronics.com/archives/1715)
+    * [Soldadura SMD con horno & Tindie](http://jmnelectronics.com/archives/534)
+    * [Cómo montar PCBs en China](http://jmnelectronics.com/archives/10589)
