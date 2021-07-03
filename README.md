@@ -4,7 +4,7 @@ Repositori pel curs d'EasyEda de formació del professorat d'FP. Estiu 2021.
 Ecosistema EasyEda: 
   * [EasyEda, disseny de PCB's](https://easyeda.com/)
   * [LCSC, venedor de components electrònics](https://lcsc.com/)
-  * [JLPCB](https://jlcpcb.com/)
+  * [JLPCB, fabricant PCB's](https://jlcpcb.com/)
    
 
 1. Tutorial d'easyEDA, [electronoobs](https://youtu.be/BvvHJ-H79l8).
