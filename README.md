@@ -19,5 +19,6 @@ Ecosistema EasyEda:
     * [Cómo montar PCBs en China](http://jmnelectronics.com/archives/10589)
 
 4. [Repositori d'en Jordi Orts, molt recomanable.](https://github.com/jorts64)
-5. [Creació d'un nou símbol.](https://docs.easyeda.com/en/SchematicLib/SchLib-Create/index.html)
+5. [Pololu 2122, 3.3V Step-Up/Step-Down Voltage Regulator](https://www.pololu.com/product/2122)
+6. [Creació d'un nou símbol.](https://docs.easyeda.com/en/SchematicLib/SchLib-Create/index.html)
 
