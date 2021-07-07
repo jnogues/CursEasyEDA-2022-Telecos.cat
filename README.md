@@ -17,3 +17,5 @@ Ecosistema EasyEda:
     * Cómo soldar SMD: aire caliente. [Parte 2](http://jmnelectronics.com/archives/1715)
     * [Soldadura SMD con horno & Tindie](http://jmnelectronics.com/archives/534)
     * [Cómo montar PCBs en China](http://jmnelectronics.com/archives/10589)
+
+4. [Repositori d'en Jordi Orts, molt recomanable.](https://github.com/jorts64)
