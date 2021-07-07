@@ -19,3 +19,5 @@ Ecosistema EasyEda:
     * [Cómo montar PCBs en China](http://jmnelectronics.com/archives/10589)
 
 4. [Repositori d'en Jordi Orts, molt recomanable.](https://github.com/jorts64)
+5. [Creació d'un nou símbol.](https://docs.easyeda.com/en/SchematicLib/SchLib-Create/index.html)
+
