@@ -21,4 +21,5 @@ Ecosistema EasyEda:
 4. [Repositori d'en Jordi Orts, molt recomanable.](https://github.com/jorts64)
 5. [Pololu 2122, 3.3V Step-Up/Step-Down Voltage Regulator](https://www.pololu.com/product/2122)
 6. [Creació d'un nou símbol.](https://docs.easyeda.com/en/SchematicLib/SchLib-Create/index.html)
+7. [IOT Rambla Prim.](http://167.86.87.117/grav2/)
 
