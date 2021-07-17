@@ -26,7 +26,7 @@ Ecosistema EasyEda:
 # Eines i materials
 
 1. [Ulleres per soldar, opció 1.](https://www.amazon.es/gp/product/B00CGE0PNK/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=programarfaci-21&linkId=eb4626c54db926ed2e5963b53098a514&language=es_ES)
-2. [Ulleres per soldar, opció 2](https://es.aliexpress.com/item/1005002865660000.html?spm=a2g0o.productlist.0.0.68cc1386PkgKW9&algo_pvid=6c0f65b8-be16-4d6f-9101-ad2ff624ce9e&algo_exp_id=6c0f65b8-be16-4d6f-9101-ad2ff624ce9e-11)
+2. [Ulleres per soldar, opció 2](https://es.aliexpress.com/item/32969152884.html?srcSns=sns_WhatsApp&spreadType=socialShare&bizType=ProductDetail&social_params=20255345395&aff_fcid=035ad953d63a49a8aeb25620aca2ec6f-1626508899828-05948-_mqz4XF1&tt=MG&aff_fsk=_mqz4XF1&aff_platform=default&sk=_mqz4XF1&aff_trace_key=035ad953d63a49a8aeb25620aca2ec6f-1626508899828-05948-_mqz4XF1&shareId=20255345395&businessType=ProductDetail&platform=AE&terminal_id=1d469d0877dc4564b69f20c32e85fab7)
 3. [Multímetre, opció 1](https://www.amazon.es/Multimetro-AoKoZo-Autom%C3%A1tico-Polimetro-Tama%C3%B1o147/dp/B085PVTTST/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=programarfaci-21&linkId=c718d39975f14e25a2860aa8560ff459&language=es_ES)
 4. [Multímetre, opció2](https://www.amazon.es/Multimetro-AoKoZo-Autom%C3%A1tico-Polimetro-Tama%C3%B1o147/dp/B085PVTTST/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=programarfaci-21&linkId=c718d39975f14e25a2860aa8560ff459&language=es_ES)
 5. [Pinces precissió, opció 1](https://www.amazon.es/Anti-Est%C3%A1ticas-Inoxidable-Electr%C3%B3nica-Laboratorio-Pasatiempos/dp/B0154P73ZU/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pinzas+precision&qid=1626498496&s=tools&sr=1-8)
