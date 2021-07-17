@@ -23,3 +23,9 @@ Ecosistema EasyEda:
 6. [Creació d'un nou símbol.](https://docs.easyeda.com/en/SchematicLib/SchLib-Create/index.html)
 7. [IOT Rambla Prim.](http://167.86.87.117/grav2/)
 
+# Eines i materials
+
+1. [Ulleres per soldar.](https://www.amazon.es/gp/product/B00CGE0PNK/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=programarfaci-21&linkId=eb4626c54db926ed2e5963b53098a514&language=es_ES)
+2. [Multímetre, opció 1](https://www.amazon.es/Multimetro-AoKoZo-Autom%C3%A1tico-Polimetro-Tama%C3%B1o147/dp/B085PVTTST/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=programarfaci-21&linkId=c718d39975f14e25a2860aa8560ff459&language=es_ES)
+3. [Multímetre, opció2](https://www.amazon.es/Multimetro-AoKoZo-Autom%C3%A1tico-Polimetro-Tama%C3%B1o147/dp/B085PVTTST/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=programarfaci-21&linkId=c718d39975f14e25a2860aa8560ff459&language=es_ES)
+
