@@ -1,5 +1,5 @@
-# cursEasyEda_2021
-Repositori pel curs d'EasyEda de formació del professorat d'FP. Estiu 2021.
+# cursEasyEda_2022
+Repositori pel curs de Formació d'EasyEda per Telecos.cat . Hivern 2022.
 
 Ecosistema EasyEda: 
   * [EasyEda, disseny de PCB's](https://easyeda.com/)
