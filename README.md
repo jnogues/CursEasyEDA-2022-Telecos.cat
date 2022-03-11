@@ -36,5 +36,6 @@ Ecosistema EasyEda:
 12. [Flux.](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/producto/DetalleProducto.jsp?idIdioma=&idTienda=93&codProducto=548074021&cPath=494)
 13. Colofonia [Solectro, ](https://solectroshop.com/es/accesorios-para-soldar/458-flux-colofonia-resina-solida-20g.html) [Químics Dalmau.](https://quimicsdalmauonline.com/tienda/colofonia-1-kg/)
 14. Alcohol isopropílic [Químics Dalmau, ](https://quimicsdalmauonline.com/tienda/alcohol-isopropilico-qp-5-l/) [Solectro, ](https://solectroshop.com/es/alcoholes/1005-alcohol-isopropilico-999-1l.html) [Bricomart.](https://www.bricomart.es/alcohol-isopropilico-1l-10893946.html)
+15. [Fabricació de flux cassolà.](https://youtu.be/drpYmAABz2c)
 
 
