@@ -32,9 +32,9 @@ Ecosistema EasyEda:
 8. [Pinces precissió, opció 1.](https://www.amazon.es/Anti-Est%C3%A1ticas-Inoxidable-Electr%C3%B3nica-Laboratorio-Pasatiempos/dp/B0154P73ZU/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pinzas+precision&qid=1626498496&s=tools&sr=1-8)
 9. [Pinces de precissió, opció 2 titani.](https://www.amazon.es/puntiagudas-microscopio-reparaci%C3%B3n-soldadura-tel%C3%A9fonos/dp/B08RJDRMTX/ref=sr_1_21?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24F226PEXP6SE&dchild=1&keywords=pinzas+precision+titanio&qid=1626498597&sprefix=pinzas+precision+t%2Cdiy%2C177&sr=8-21)
 10. [Estany MBO 1mm.](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/producto/DetalleProducto.jsp?idIdioma=&idTienda=93&codProducto=294050005&cPath=781&gclid=CjwKCAiAg6yRBhBNEiwAeVyL0LW7CxheWUaGRZ-Q0SPwxRIDKfMkODCQEoH-gDDB2SxQbN6vu7IxOBoCCjUQAvD_BwE)
-11. Estany MBO 0,5mm [Centronic](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/producto/DetalleProducto.jsp?idIdioma=&idTienda=93&codProducto=294050012&cPath=781) [Diotronic](https://diotronic.com/esta%C3%B1o/6569-121402-estano-0-5mm-trime-100g)
+11. Estany MBO 0,5mm [Centronic, ](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/producto/DetalleProducto.jsp?idIdioma=&idTienda=93&codProducto=294050012&cPath=781) [Diotronic.](https://diotronic.com/esta%C3%B1o/6569-121402-estano-0-5mm-trime-100g)
 12. [Flux.](https://www.cetronic.es/sqlcommerce/disenos/plantilla1/seccion/producto/DetalleProducto.jsp?idIdioma=&idTienda=93&codProducto=548074021&cPath=494)
-13. Colofonia [Solectro](https://solectroshop.com/es/accesorios-para-soldar/458-flux-colofonia-resina-solida-20g.html) [Químics Dalmau](https://quimicsdalmauonline.com/tienda/colofonia-1-kg/)
-14. Alcohol isopropílic [Químics Dalmau](https://quimicsdalmauonline.com/tienda/alcohol-isopropilico-qp-5-l/) [Solectro](https://solectroshop.com/es/alcoholes/1005-alcohol-isopropilico-999-1l.html) [Bricomart.](https://www.bricomart.es/alcohol-isopropilico-1l-10893946.html)
+13. Colofonia [Solectro, ](https://solectroshop.com/es/accesorios-para-soldar/458-flux-colofonia-resina-solida-20g.html) [Químics Dalmau.](https://quimicsdalmauonline.com/tienda/colofonia-1-kg/)
+14. Alcohol isopropílic [Químics Dalmau, ](https://quimicsdalmauonline.com/tienda/alcohol-isopropilico-qp-5-l/) [Solectro, ](https://solectroshop.com/es/alcoholes/1005-alcohol-isopropilico-999-1l.html) [Bricomart.](https://www.bricomart.es/alcohol-isopropilico-1l-10893946.html)
 
 
