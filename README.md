@@ -1,6 +1,8 @@
 # cursEasyEda_2022
 Repositori pel curs de Formació d'EasyEda per Telecos.cat . Hivern 2022.
 
+[Placa base](https://oshwlab.com/jnogues/curs-formacio-estiu-2021_copy)
+
 Ecosistema EasyEda: 
   * [EasyEda, disseny de PCB's](https://easyeda.com/)
   * [LCSC, venedor de components electrònics](https://lcsc.com/)
